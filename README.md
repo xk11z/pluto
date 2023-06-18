@@ -1,7 +1,10 @@
 # pluto
-一款集成了上百G工具的透测试系统-冥王星
+一款集成了几十G工具的透测试系统-冥王星
 # 项目介绍
-本系统是我大学进入网安两年打造的渗透测试系统，包含多种渗透测试系统工具，此前已去除多种老旧工具包，部分工具未下载，但用txt文件标注
+本系统是我大学进入网安两年打造的渗透测试系统，包含多种渗透测试系统工具，此前已去除多种老旧工具包，系统工具来源广泛，安全性自测。参考了多种渗透测试系统
+
+# 项目截图
+![main](https://github.com/xk11z/pluto/assets/126586204/17365e2e-698c-4e0a-998b-b0ce4921469a)
 
 ## WEB工具
 ### api
@@ -15,7 +18,6 @@
 ### cdn
 ### 端口扫描
 ### waf
-
 ### webshell
 ### webshell连接
 ### webshell生成
@@ -42,15 +44,25 @@
 - 一堆技术资料
 ## 字典及字典生成
 ## 内网工具
-
+- k8cs
+- ladon
+- 权限维持·
+- 权限提升
+- 扫描脚本
+- 常用工具
+- 内网穿透
+- 端口转发
+- 抓密码
+- 常用框架
 ## 安卓工具
 - frida
+- fridaUiTools
 - objection
 - apktool
 - dex2jar
 - r0capture
 - socketaddress
-- 雷电模拟器（postern，drozer，httpcanary）
+- 雷电模拟器（postern，drozer，httpcanary,frida）
 - drozer
 - mobsf
 - apkide少月版
@@ -64,7 +76,8 @@
 - apkanalyser
 - apktoolbox
 - apktoolplus
-- 
+- apksigner
+- apksignaturekiller
 # 免责声明
 1. 本系统仅面向合法授权的企业安全建设行为，如您需要测试本镜像的可用性，请自行搭建靶机环境；
 2. 在使用本系统进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权；
