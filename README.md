@@ -6,6 +6,11 @@
 # 项目截图
 ![main](https://github.com/xk11z/pluto/assets/126586204/17365e2e-698c-4e0a-998b-b0ce4921469a)
 # 下载链接
+解压密码，开机密码均为mxw123!@#
+模拟器密码mwx123
+链接：https://pan.baidu.com/s/1aoOkCxwCq0qBtf6dLeH2Xg 
+提取码：dns4 
+--来自百度网盘超级会员V6的分享
 ## WEB工具
 ### api
 ### 目录扫描
