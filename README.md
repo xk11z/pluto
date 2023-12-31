@@ -77,9 +77,6 @@
 - apktoolplus
 - apksigner
 - apksignaturekiller
-# 捐赠
-☺如果觉得还不错，请作者喝杯咖啡吧☺
-![支付](https://github.com/xk11z/pluto/assets/126586204/1bf42ea3-45a1-4657-b52c-45857ba31f18)
 
 # 参考项目
 - 悬剑渗透测试系统
