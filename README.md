@@ -3,7 +3,7 @@
 # 项目介绍
 本系统是我大学进入网安两年打造的渗透测试系统，包含多种渗透测试系统工具，现免费分享给大家，此前已去除多种老旧工具包，系统工具来源广泛，安全性自测。参考了多种渗透测试系统
 # 项目链接
-通过网盘分享的文件：mwx.7z链接: https://pan.baidu.com/s/1IlEiqdJRQOsNLcGBhGzjQA 提取码: f1jd --来自百度网盘超级会员v0的分享![image](https://github.com/user-attachments/assets/7fb4628a-5ec5-41e3-9518-796ac674ada5)
+2023版通过网盘分享的文件：mwx.7z链接: https://pan.baidu.com/s/1IlEiqdJRQOsNLcGBhGzjQA 提取码: f1jd --来自百度网盘超级会员v0的分享![image](https://github.com/user-attachments/assets/7fb4628a-5ec5-41e3-9518-796ac674ada5)
 
 # 项目截图
 ![main](https://github.com/xk11z/pluto/assets/126586204/17365e2e-698c-4e0a-998b-b0ce4921469a)
